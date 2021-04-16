@@ -1,0 +1,22 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Pokedex muestra lista de pokemones y realiza interacciones mostrando info de ellos",
+  "main": "pokedex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leotammaro/Pokedex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leotammaro/Pokedex/issues"
+  },
+  "homepage": "https://github.com/leotammaro/Pokedex#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
